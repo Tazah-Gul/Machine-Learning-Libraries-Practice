@@ -1,0 +1,1 @@
+This repository includes basic practice implementation of different machine learning libraries like numpy, pandas, matplotlib and seaborn. These libraries help alot during Exploratory Data Analysis (EDA).
